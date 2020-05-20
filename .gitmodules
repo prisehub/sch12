@@ -17,3 +17,8 @@
 	path = prisehub/schreurs
 	url = git@github.com:prisehub/schreurs.git
 	branch = 12.0
+
+[submodule "OCA/bank-payment"]
+	path = OCA/bank-payment
+	url = git@github.com:OCA/bank-payment.git
+	branch = 12.0
