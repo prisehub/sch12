@@ -7,3 +7,8 @@
 	path = prisehub/phaccount
 	url = git@github.com:prisehub/phaccount.git
 	branch = 12.0
+
+[submodule "prisehub/phhr"]
+	path = prisehub/phhr
+	url = git@github.com:prisehub/phhr.git
+	branch = 12.0
